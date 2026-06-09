@@ -1,4 +1,3 @@
-# Hackathon App BiT 🚀
 **Wongola / Black in Tech**
 
 Kick-off: 08/06/2026 · Demo Day: 10/07/2026
@@ -11,9 +10,3 @@ Kick-off: 08/06/2026 · Demo Day: 10/07/2026
 ## Dataset Vísent CDRView
 Os dados estão disponíveis na pasta `/dataset-visent`.
 Leia o [README do dataset](./dataset-visent/README_dataset.md) antes de começar.
-
-## Parceiros
-Oracle · Google GEAR · Angola Cables · Vísent Data Insights · PMI-SP
-
-## Contato
-hackathon@wongola.com.br
