@@ -1,4 +1,4 @@
-# Hackathon App BiT — Base de Dados v2
+# App BiT — Base de Dados v2
 ## CDRView · Região Metropolitana de Florianópolis · jun/2026
 
 ---
