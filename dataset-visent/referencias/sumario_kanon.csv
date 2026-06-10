@@ -1,0 +1,7 @@
+parametro,valor
+K_usado,3
+total_pares_od,506
+pares_k_anonimos,506
+pct_cobertura,100.0%
+pares_inter_cluster,506
+aviso_producao,Aumentar K para 5 em producao
